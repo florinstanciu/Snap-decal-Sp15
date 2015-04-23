@@ -1,0 +1,6 @@
+Video3 - Sprite Corral
+
+This video will focus on the sprite corral located on the right side under the stage. In terms of the sprite corral, this region allows you to control the sprites that are available. You can easily create a new sprite with the new sprite symbol at the top left of the sprite corral. If you want to get creative, you can even paint yourself a new sprite with the paint a new sprite button which is located next to the new sprite button. Another cool feature is that you can rename the sprite by editing the name in the top of the scripting pane. 
+
+
+In regards to the sprites themselves, they act independently of one another. The sprites essentially are linked to the code created in the scripting area for each individual sprite. Each sprite has options for costumes and for sounds. Both can be imported by the user. The costumes are a form of skins for your sprite. If you switch sprites by clicking on another one, it loads its own separate code, costumes, and sounds. You will notice that these attributes for each sprite are independent of one another and cannot interact with each other. This helps to modularize your sprites and their attributes.
